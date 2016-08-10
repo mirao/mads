@@ -1,0 +1,26 @@
+{
+    "name": "mads",
+    "displayName": "mads",
+    "description": "6502/65816 Assembly, MADS syntax highlighting",
+    "version": "1.0.0",
+    "publisher": "Jaromir Obr",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "mads",
+            "aliases": ["6502/65816 Assembly"],
+            "extensions": [".asm", ".mac", ".hea"],
+            "configuration": "./mads.configuration.json"
+        }],
+        "grammars": [{
+            "language": "mads",
+            "scopeName": "source.asm.6502_65816.mads",
+            "path": "./syntaxes/mads.tmLanguage"
+        }]
+    }
+}
