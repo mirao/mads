@@ -3,7 +3,7 @@
     "displayName": "MADS",
     "description": "6502/65816 Assembly language, MADS syntax highlighting",
     "version": "0.0.1",
-    "icon": "images/logo.png",
+    "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#5c2d91",
         "theme": "dark"
