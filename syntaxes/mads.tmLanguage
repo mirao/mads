@@ -350,7 +350,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>(?i)(\s+(ins|icl)|(^|\s+)\.([wld]?get|put|sav|link))\b</string>
+					<string>(?i)(\s+(ins|icl)|(^|\s+)\.([wldx]?get|put|sav|link))\b</string>
 					<key>name</key>
 					<string>keyword.other.ram.load</string>
 				</dict>
