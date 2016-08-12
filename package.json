@@ -1,14 +1,31 @@
 {
     "name": "mads",
-    "displayName": "mads",
-    "description": "6502/65816 Assembly, MADS syntax highlighting",
-    "version": "1.0.0",
+    "displayName": "MADS",
+    "description": "6502/65816 Assembly language, MADS syntax highlighting",
+    "version": "0.0.1",
+    "icon": "images/logo.png",
+    "galleryBanner": {
+        "color": "#5c2d91",
+        "theme": "dark"
+    },
     "publisher": "Jaromir Obr",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "bugs": {
+        "url": "https://github.com/mirao/mads/issues"
+    },
+    "homepage": "https://github.com/mirao/mads/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mirao/mads.git"
+    },
     "engines": {
         "vscode": "^1.0.0"
     },
     "categories": [
         "Languages"
+    ],
+    "keywords": [
+        "mads", "6502", "atari", "commodore", "8bit"
     ],
     "contributes": {
         "languages": [{
