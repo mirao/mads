@@ -25,7 +25,7 @@
         "Languages"
     ],
     "keywords": [
-        "mads", "6502", "65816", "atari", "commodore", "8bit"
+        "mads", "6502", "65816", "atari", "commodore"
     ],
     "contributes": {
         "languages": [{
