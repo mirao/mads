@@ -10,6 +10,10 @@ It supports all features of MADS v2.0.5
 
 ## Release Notes
 
+### 0.0.2
+
+Screenshot for Marketplace in better quality
+
 ### 0.0.1
 
 Initial release
