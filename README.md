@@ -4,19 +4,9 @@ It provides syntax highlighting for [MADS](http://mads.atari8.info/), powerful m
 
 ## Features
 
-It supports all features of MADS v2.0.5
+It supports all features of MADS v2.0.6
 
 ![Example](images/example.png)
-
-## Release Notes
-
-### 0.0.2
-
-Screenshot for Marketplace in better quality
-
-### 0.0.1
-
-Initial release
 
 -----------------------------------------------------------------------------------------------------------
 **Go ATARI !**

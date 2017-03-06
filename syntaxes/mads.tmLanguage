@@ -140,7 +140,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>(?i)(^|\s+)\.(macro|endm|mend|rept|endr|proc|endp|pend)\b</string>
+					<string>(?i)(^|\s+)\.(define|undef|macro|endm|mend|rept|endr|proc|endp|pend)\b</string>
 					<key>name</key>
 					<string>entity.other.attribute-name.macro</string>
 				</dict>
