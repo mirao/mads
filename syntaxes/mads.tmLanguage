@@ -416,7 +416,7 @@
 			<array>
 				<dict>
 					<key>match</key>
-					<string>(?i)[+\-*/%!|^=~\:&amp;&lt;&gt;]|equ|\.(and|x?or|not|(lo|hi)(?=\s*\())</string>
+					<string>(?i)[+\-*/!|^=~\:&amp;&lt;&gt;]|%%?|equ|\.(and|x?or|not|(lo|hi)(?=\s*\())</string>
 					<key>name</key>
 					<string>keyword.operators</string>
 				</dict>
