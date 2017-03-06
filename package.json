@@ -5,7 +5,7 @@
     "version": "0.0.2",
     "icon": "images/icon.png",
     "galleryBanner": {
-        "color": "#5c2d91",
+        "color": "#2d5e91",
         "theme": "dark"
     },
     "publisher": "mirao",
