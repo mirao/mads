@@ -1,3 +1,9 @@
+## Changelog
+
+### 0.0.5
+
+Fixed parsing of %% parameter ([#1](https://github.com/mirao/mads/issues/1)) 
+
 ### 0.0.4
 
 Added changelog link to Marketplace
