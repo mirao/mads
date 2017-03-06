@@ -2,7 +2,7 @@
     "name": "mads",
     "displayName": "MADS",
     "description": "6502/65816 Assembly language, MADS syntax highlighting",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#2d5e91",
@@ -25,19 +25,33 @@
         "Languages"
     ],
     "keywords": [
-        "mads", "6502", "65816", "atari", "commodore"
+        "mads",
+        "6502",
+        "65816",
+        "atari",
+        "commodore"
     ],
     "contributes": {
-        "languages": [{
-            "id": "mads",
-            "aliases": ["6502/65816 Assembly"],
-            "extensions": [".asm", ".mac", ".hea"],
-            "configuration": "./mads.configuration.json"
-        }],
-        "grammars": [{
-            "language": "mads",
-            "scopeName": "source.asm.6502_65816.mads",
-            "path": "./syntaxes/mads.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "mads",
+                "aliases": [
+                    "6502/65816 Assembly"
+                ],
+                "extensions": [
+                    ".asm",
+                    ".mac",
+                    ".hea"
+                ],
+                "configuration": "./mads.configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "mads",
+                "scopeName": "source.asm.6502_65816.mads",
+                "path": "./syntaxes/mads.tmLanguage"
+            }
+        ]
     }
 }
