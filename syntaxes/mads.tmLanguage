@@ -178,7 +178,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>^\S*\s*(\*.*)</string>
+					<string>^\s*(\*.*)</string>
 					<key>captures</key>
 					<dict>
 						<key>1</key>
