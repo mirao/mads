@@ -36,12 +36,13 @@
             {
                 "id": "mads",
                 "aliases": [
-                    "6502/65816 Assembly"
+                    "Mad Assembler"
                 ],
                 "extensions": [
                     ".asm",
                     ".mac",
-                    ".hea"
+                    ".hea",
+                    ".a65"
                 ],
                 "configuration": "./mads.configuration.jsonc"
             }

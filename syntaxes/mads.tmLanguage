@@ -7,9 +7,10 @@
             <string>asm</string>
             <string>mac</string>
             <string>hea</string>
+            <string>a65</string>
         </array>
         <key>name</key>
-        <string>6502/65816 Assembly (MADS)</string>
+        <string>Mad Assembler</string>
         <key>patterns</key>
         <array>
             <dict>
