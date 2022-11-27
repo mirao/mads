@@ -249,7 +249,7 @@
                 <array>
                     <dict>
                         <key>match</key>
-                        <string>(?i)\s+dta|((^|\s+|(?&lt;=\())\.(d?byte|d?word|long)|(^|\s+)\.((zp)?var|reg|db|dw|by|ds|sb|cb|wo|he|fl))\b</string>
+                        <string>(?i)\s+dta|((^|\s+|(?&lt;=\())\.(d?byte|d?word|long)|(^|\s+)\.((zp)?var|reg|db|dw|by|ds|sb|cbm?|wo|he|fl|a8|a16|ai8|ai16|i8|i16|ia8|ia16|long[ai] (on|off)))\b</string>
                         <key>name</key>
                         <string>storage.type</string>
                     </dict>
@@ -273,7 +273,7 @@
                 <array>
                     <dict>
                         <key>match</key>
-                        <string>(?i)(\bset|\.(adr|len|sizeof|filesize|def))\b</string>
+                        <string>(?i)(\bset|\.(adr|len|sizeof|filesize|fileexists|def|asize|isize|rnd))\b</string>
                         <key>name</key>
                         <string>keyword.other.label.functions</string>
                     </dict>
