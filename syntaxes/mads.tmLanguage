@@ -373,7 +373,12 @@
                         <key>name</key>
                         <string>keyword.other.ram.bank</string>
                     </dict>
-
+                    <dict>
+                        <key>match</key>
+                        <string>(?i)#cycle(?=\s*#)</string>
+                        <key>name</key>
+                        <string>keyword.other.cycle</string>
+                    </dict>
                 </array>
             </dict>
             <key>external</key>
