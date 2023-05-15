@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.0.8](https://github.com/mirao/mads/milestone/3?closed=1) (May 15, 2023)
+
+* Added a new extension icon ([#14](https://github.com/mirao/mads/issues/14))
+* Fixed highlighting of " load lda" and combining of multiple mnemonics in some cases ([#15](https://github.com/mirao/mads/issues/15))
+
 ## [0.0.7](https://github.com/mirao/mads/milestone/2?closed=1) (April 1, 2023)
 
 * Added highlighting of [#CYCLE #N](https://mads.atari8.info/pl/dyrektywy-kodu/#cycle-n) ([#12](https://github.com/mirao/mads/issues/12))
